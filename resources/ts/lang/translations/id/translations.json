@@ -1,0 +1,19 @@
+{
+    "hello": "Halo Dunia !",
+    "wait": "Tunggu sebentar...",
+    "login": {
+        "page_title": "Masuk ke aplikasi",
+        "forgot_password": "Lupa kata sandi?",
+        "submit": "Masuk",
+        "email": "Email",
+        "password": "Kata Sandi"
+    },
+    "dashboard": {
+        "welcome": "Selamat datang di"
+    },
+    "master": {
+        "Master Negara":"Master Negara",
+        "Master Mata Uang":"Master Mata Uang",
+        "Master Provinsi":"Master Provinsi"
+    }
+}

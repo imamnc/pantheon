@@ -1,0 +1,19 @@
+{
+    "hello": "Hello World !",
+    "wait": "Please wait...",
+    "login": {
+        "page_title": "Sign In",
+        "forgot_password": "Forgot Password",
+        "submit": "Login",
+        "email": "Email",
+        "password": "Password"
+    },
+    "dashboard": {
+        "welcome": "Welcome to"
+    },
+    "master": {
+        "Master Negara":"Master Country",
+        "Master Mata Uang":"Master Currency",
+        "Master Provinsi":"Master Province"
+    }
+}
